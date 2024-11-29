@@ -1,0 +1,14 @@
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/tucabank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/tucabank.AssemblyInfoInputs.cache
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/tucabank.AssemblyInfo.cs
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/tucabank.csproj.CoreCompileInputs.cache
+/Users/glhrmacedo/Teaching/tucabank/bin/Debug/net8.0/tucabank
+/Users/glhrmacedo/Teaching/tucabank/bin/Debug/net8.0/tucabank.deps.json
+/Users/glhrmacedo/Teaching/tucabank/bin/Debug/net8.0/tucabank.runtimeconfig.json
+/Users/glhrmacedo/Teaching/tucabank/bin/Debug/net8.0/tucabank.dll
+/Users/glhrmacedo/Teaching/tucabank/bin/Debug/net8.0/tucabank.pdb
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/tucabank.dll
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/refint/tucabank.dll
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/tucabank.pdb
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/tucabank.genruntimeconfig.cache
+/Users/glhrmacedo/Teaching/tucabank/obj/Debug/net8.0/ref/tucabank.dll

@@ -1,0 +1,16 @@
+assim como as listas, elas tb sao estruturas de dados baseadas em Nós(nodos) interligados por ponteiros. Podem ser binárias(1 informação e 2 ponteiros por nó)ternarias(2 informações e 3 ponteiros por nó), quaternarias(3 informações e 4 ponteiros).....
+podemos generalizar a ideia de dizendo q uma arvore Naria é uma arvore cujos os nós possuem N-1 informações e N ponteiros.arvores de busca soa arvores que satisfazem a seguinte propriedade: as informações contidas em Nodos(Nós) acessados via ponteiro que fica a esquerda de uma certa informação I são todas menores do que que a informação em questao; e as informaçoes contidas em nodos acessados via um ponteiro que fica a direita de uma certa informação I são todas maiores do que a informaçao I em questão
+
+Naturalmente As informações que serão guardadas nos nodos das arvores Binarias de busca deverão ser comparaveis entre si deverao guardar comparable
+
+A medida que cresce fica cada vez mais inviavel cogitar declarar uma por uma as informações ou um por um os ponteiros de um no, e fica cada vez mais mandatório usar vetores de informaçoes e de ponteiros.
+O ponteiro ,assim como o no, que da acesso a tudo ou mais que por ventura estiver na arvore é chamado de raiz.
+os Nos ligados a ponteiros que saem de um certo no sao ditos filhos daquele no , que por sua vez dito pai.
+Podeos seguir  analogia familiar para nodos mais distantes, ex, podemos dizer que os filhos dos filhos são netos e que o pai do pai é avo. Nodos que não tem filhos são chamados de folhas e Nodos que tem filhos são chamados de Nodos de derivação.
+Dizemos q o nodo raiz fica no nivel zero de uma arvore, seus filhos;seus netos no nivel 2 e assim por diante.
+Definimos a altura da arvore como sendo a quantidade de niveis q ela tem 
+Dizemos que uma arvore esta balanceada quando a quantidade de nodos filhos de um certo nodo qualquer
+quando a quantidade de nodos descendentes de um certo nodo qualquer for aproximadamente igual admitindo-se de no max 1 para mais ou para menores.
+Ao examinar o que tem abaixo de um certo ponteiro de um certo no, observamos todoas as caracteristicas de uma arvore e a dizemos ser uma subArvore. E o ponteiro que lhe da acesso é dito raiz da subArvore
+
+.

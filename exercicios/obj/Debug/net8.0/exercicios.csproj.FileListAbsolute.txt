@@ -1,0 +1,14 @@
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/exercicios.AssemblyInfoInputs.cache
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/exercicios.AssemblyInfo.cs
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/exercicios.csproj.CoreCompileInputs.cache
+/Users/u23326/Documents/C#/exercicios/bin/Debug/net8.0/exercicios
+/Users/u23326/Documents/C#/exercicios/bin/Debug/net8.0/exercicios.deps.json
+/Users/u23326/Documents/C#/exercicios/bin/Debug/net8.0/exercicios.runtimeconfig.json
+/Users/u23326/Documents/C#/exercicios/bin/Debug/net8.0/exercicios.dll
+/Users/u23326/Documents/C#/exercicios/bin/Debug/net8.0/exercicios.pdb
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/exercicios.dll
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/refint/exercicios.dll
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/exercicios.pdb
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/exercicios.genruntimeconfig.cache
+/Users/u23326/Documents/C#/exercicios/obj/Debug/net8.0/ref/exercicios.dll
